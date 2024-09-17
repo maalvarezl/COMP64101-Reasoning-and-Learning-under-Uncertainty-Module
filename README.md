@@ -1,6 +1,6 @@
 # COMP64101 Reasoning and Learning under Uncertainty 2024/25 - University of Manchester
 
-**Course Lecturers**: [Mauricio A Álvarez](https://maalvarezl.github.io/), [Michele Caprio](https://research.manchester.ac.uk/en/persons/michele-caprio), and [Omar Rivasplata](https://personalpages.manchester.ac.uk/staff/omar.rivasplata/)
+**Course Lecturers**: [Mauricio A Álvarez](https://maalvarezl.github.io/), [Michele Caprio](https://michelecaprio.wixsite.com/caprio), and [Omar Rivasplata](https://personalpages.manchester.ac.uk/staff/omar.rivasplata/)
 
 ## Description
 
