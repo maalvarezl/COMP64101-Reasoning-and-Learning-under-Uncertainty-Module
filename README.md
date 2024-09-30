@@ -12,11 +12,13 @@ Machine learning is increasingly being used for decision support in data-driven 
 
 You can run the Jupyter Notebooks directly on [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index). Click on each Colab Badge to open the notebook.
 
+
+| Session date |      Lab session        |  Google Colab link |
+|--------------------|----------------|---------------|
+|     October 4               |Probability & Statistics  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64101-Reasoning-and-Learning-under-Uncertainty-Module/blob/main/Labs/Lab%201%20-%20Prob%20%26%20Stats.ipynb#scrollTo=bdf68c0ac6e93397)|
 <!---
 
-|  Group A (5-week) | Group B (12-week)  | Lab session        |  Google Colab link |
-|----------------|----------------|--------------------|--------------------|
-|    September 29           | October 6               |Probability and an Introduction to Jupyter, Python and Pandas  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%201%20-%20Probability%20and%20Introduction%20to%20Jupyter%20Notebooks.ipynb)|
+
 |    October 6           | October 20               |An end-to-end ML project |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%202%20-%20End-to-end%20project%20in%20ML.ipynb)|
 |    October 13           | November 10               |Linear models |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%203%20-%20Linear%20models.ipynb)|
 |    October 20           | November 24               |Neural networks |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP61011-Foundations-of-Machine-Learning-Module/blob/main/Labs/Lab%204%20-%20Neural_networks.ipynb)|
