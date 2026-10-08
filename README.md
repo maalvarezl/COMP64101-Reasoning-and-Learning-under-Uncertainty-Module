@@ -15,7 +15,7 @@ You can run the Jupyter Notebooks directly on [Google Colab](https://colab.resea
 
 | Session date |      Lab session        |  Google Colab link |
 |--------------------|----------------|---------------|
-|     October 9               |Probability & Statistics  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
+|     October 9               |Probability & Statistics  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maalvarezl/COMP64101-Reasoning-and-Learning-under-Uncertainty-Module/blob/main/Labs/Lab%201%20-%20Probability%20and%20Stats.ipynb)|
 
 <!--
 | Session date |      Lab session        |  Google Colab link |
